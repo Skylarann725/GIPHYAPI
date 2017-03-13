@@ -1,0 +1,44 @@
+body {
+	background-color: black;
+}
+
+#add-animal {
+	background-color: lightblue;
+	font-size: 15px;
+	padding: 10px;
+	float:right;
+	margin-right: -190px;
+	margin-top: 100px;
+}
+
+#animal-input {
+	float:right;
+	font-size: 15px;
+	padding: 10px;
+	margin-right: -155px;
+	margin-top: 60px;
+}
+
+.animal {
+	background-color: lightblue;
+	font-size: 15px;
+	padding: 5px;
+	margin-right: 10px;
+	width: 100px;
+}
+
+h1 {
+	color: white;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+label {
+	color: white;
+	float:right;
+	font-size: 25px;
+	margin-right: 40px;
+	margin-top: 20px;
+	font-weight: bold;
+}
+
